@@ -1,0 +1,22 @@
+.profile {
+  margin: auto;
+  background-color: whitesmoke;
+
+}
+
+.stats {
+    display: flex;
+}
+
+.listItem {
+    margin-right: 8px;
+}
+
+.label {
+    display: block; 
+}
+
+.quantity {
+    margin: auto;
+}
+
